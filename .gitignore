@@ -3,6 +3,8 @@
 *.swp
 .bundle
 .config
+.direnv
+.envrc
 .rspec
 .rspec-local
 .ruby-version
